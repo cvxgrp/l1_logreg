@@ -60,7 +60,7 @@ double find_lambdamax(const dmatrix *X, const double *b, const int sflag)
     else
     {
         dmat_diagscale(A, b, FALSE, NULL, TRUE);
-        ac = ar = NULL;
+        avg_x = std_x = ac = ar = NULL;
     }
 
     /* number of positive class examples */
