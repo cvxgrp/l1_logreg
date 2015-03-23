@@ -5,7 +5,7 @@
 #-------------------------------------------------------------------------------
 
 AC_PREREQ(2.59)
-AC_INIT([l1_logreg],[0.8.2],[deneb1@stanford.edu])
+AC_INIT([l1_logreg],[0.8.3],[deneb1@stanford.edu])
 AC_COPYRIGHT([
 Copyright (C) 2006   Kwangmoo Koh  <deneb1@stanford.edu>, SeungJean Kim <sjkim@stanford.edu>, Stephen Boyd  <boyd@stanford.edu>])
 
